@@ -1,15 +1,3 @@
-# import tkinter as tk
-
-# root = tk.Tk()
-
-
-# C = tk.Canvas(root, height=500, width=400, bd=1.5, bg='white')
-# C.pack()
-
-
-# C.create_arc(50, 50, 200, 150, start=0, extent=180, fill='yellow', outline='black', width=2)
-
-# root.mainloop()
 
 import pandas as pd
 import numpy as np
